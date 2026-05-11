@@ -1,0 +1,1627 @@
+{
+  "nom": "Bordeaux",
+  "lignes": {
+    "A": {
+      "nom": "Tramway A",
+      "couleur": "violet",
+      "stations": [
+        "Le Haillan Rostand",
+        "Les Pins",
+        "Frères Robinson",
+        "Hôtel de Ville Mérignac",
+        "Pin Galant",
+        "Mérignac Centre",
+        "Lycées de Mérignac",
+        "Quatre Chemins",
+        "Pierre Mendès-France",
+        "Alfred de Vigny",
+        "Fontaine d'Arlac",
+        "Peychotte",
+        "François Mitterrand",
+        "Saint-Augustin",
+        "Hôpital Pellegrin",
+        "Stade Chaban-Delmas",
+        "Gaviniès",
+        "Hôtel de Police",
+        "Saint-Bruno",
+        "Mériadeck",
+        "Palais de Justice",
+        "Hôtel de Ville",
+        "Sainte-Catherine",
+        "Place du Palais",
+        "Porte de Bourgogne",
+        "Stalingrad",
+        "Jardin Botanique",
+        "Thiers-Benauge",
+        "Galin",
+        "Jean Jaurès",
+        "Cenon Gare",
+        "Carnot",
+        "Buttinière",
+        "Iris",
+        "Gravières",
+        "Bois Fleuri",
+        "Lauriers",
+        "Mairie de Lormont",
+        "Carriet",
+        "La Gardette"
+      ]
+    },
+    "B": {
+      "nom": "Tramway B",
+      "couleur": "rouge",
+      "stations": [
+        "Berges de la Garonne",
+        "Claveau",
+        "Brandenburg",
+        "New-York",
+        "Rue Achard",
+        "La Cité du Vin",
+        "Les Hangars",
+        "Cours du Médoc",
+        "Chartrons",
+        "CAPC",
+        "Quinconces",
+        "Grand Théâtre",
+        "Gambetta",
+        "Hôtel de Ville",
+        "Musée d'Aquitaine",
+        "Victoire",
+        "Saint-Nicolas",
+        "Bergonié",
+        "Barrière Saint-Genès",
+        "Roustaing",
+        "Talence Centre",
+        "Peixotto",
+        "Béthanie",
+        "Arts et Métiers",
+        "François Bordes",
+        "Doyen Brus",
+        "Montaigne Montesquieu",
+        "Unitec",
+        "Saige",
+        "Bougnard",
+        "Châtaigneraie",
+        "Cap Métiers",
+        "Hôpital Haut-Lévêque",
+        "Gare Pessac Alouette",
+        "France Alouette"
+      ]
+    },
+    "C": {
+      "nom": "Tramway C",
+      "couleur": "rose",
+      "stations": [
+        "Parc des Expositions",
+        "Palais des Congrès",
+        "Quarante Journaux",
+        "Berges du Lac",
+        "Les Aubiers",
+        "Cracovie",
+        "Place Ravezies",
+        "Grand Parc",
+        "Émile Counord",
+        "Camille Godard",
+        "Place Paul Doumer",
+        "Jardin Public",
+        "Quinconces",
+        "Place de la Bourse",
+        "Porte de Bourgogne",
+        "Saint-Michel",
+        "Sainte-Croix",
+        "Tauzia",
+        "Gare Saint-Jean",
+        "Belcier",
+        "Carle Vernet",
+        "Terres Neuves",
+        "La Belle Rose",
+        "Stade Musard",
+        "Calais Centujean",
+        "Gare de Bègles",
+        "Parc de Mussonville",
+        "Lycée Václav-Havel",
+        "Villenave Centre",
+        "Villenave Pyrénées"
+      ]
+    },
+    "D": {
+      "nom": "Tramway D",
+      "couleur": "vert olive",
+      "stations": [
+        "Cantinolle",
+        "Les Sources",
+        "Eysines Centre",
+        "Picot",
+        "Simone Veil Eysines",
+        "Hippodrome",
+        "Champ de Courses",
+        "Sainte-Germaine",
+        "Les Écus",
+        "Mairie du Bouscat",
+        "Calypso",
+        "Courbet",
+        "Barrière du Médoc",
+        "Croix de Seguey",
+        "Fondaudège Muséum",
+        "Quinconces",
+        "Place de la Bourse",
+        "Porte de Bourgogne",
+        "Saint-Michel",
+        "Sainte-Croix",
+        "Tauzia",
+        "Gare Saint-Jean",
+        "Belcier",
+        "Carle Vernet"
+      ]
+    },
+    "E": {
+      "nom": "Tramway E",
+      "couleur": "marron",
+      "stations": [
+        "Gare de Blanquefort",
+        "Frankton",
+        "Gare de Bruges",
+        "Ausone",
+        "La Vache",
+        "Cracovie",
+        "Place Ravezies",
+        "Grand Parc",
+        "Émile Counord",
+        "Camille Godard",
+        "Place Paul Doumer",
+        "Jardin Public",
+        "Quinconces",
+        "Place de la Bourse",
+        "Porte de Bourgogne",
+        "Stalingrad",
+        "Jardin Botanique",
+        "Thiers-Benauge",
+        "Galin",
+        "Jean Jaurès",
+        "Cenon Gare",
+        "Carnot",
+        "Buttinière",
+        "Palmer",
+        "Pelletan",
+        "La Morlette",
+        "Jean Zay",
+        "La Marègue",
+        "Floirac Dravemont"
+      ]
+    },
+    "F": {
+      "nom": "Tramway F",
+      "couleur": "bleu",
+      "stations": [
+        "Aéroport",
+        "Caroline-Aigle",
+        "Cadéra-Issartier",
+        "Parc Chemin-Long",
+        "Mérignac Soleil",
+        "Quatre Chemins",
+        "Pierre Mendès-France",
+        "Alfred de Vigny",
+        "Fontaine d'Arlac",
+        "Peychotte",
+        "François Mitterrand",
+        "Saint-Augustin",
+        "Hôpital Pellegrin",
+        "Stade Chaban-Delmas",
+        "Gaviniès",
+        "Hôtel de Police",
+        "Saint-Bruno",
+        "Mériadeck",
+        "Palais de Justice",
+        "Hôtel de Ville",
+        "Sainte-Catherine",
+        "Place du Palais",
+        "Porte de Bourgogne",
+        "Saint-Michel",
+        "Sainte-Croix",
+        "Tauzia",
+        "Gare Saint-Jean",
+        "Belcier",
+        "Carle Vernet",
+        "Terres Neuves",
+        "La Belle Rose",
+        "Stade Musard",
+        "Calais Centujean",
+        "Gare de Bègles"
+      ]
+    },
+    "G": {
+      "nom": "Bus Express G",
+      "couleur": "vert",
+      "stations": [
+        "Saint-Aubin Villepreux",
+        "Croix Vieille",
+        "Église de Saint-Aubin",
+        "Germignan",
+        "Lycée Sud Médoc",
+        "Euromédoc",
+        "Les Escarrets",
+        "Mairie de Saint-Médard",
+        "République",
+        "Montaigne",
+        "Bords de Jalles",
+        "Château de Gajac",
+        "Centre Commercial Saint-Médard",
+        "Berlincan",
+        "Rue du Médoc",
+        "Mairie du Haillan",
+        "Collège Émile Zola",
+        "Mermoz",
+        "Saint-Exupéry",
+        "Germaine Tillion",
+        "La Forêt",
+        "Le Grand Louis",
+        "Caillou",
+        "Cage Verte",
+        "Stade Stéhélin",
+        "Collège Saint-André",
+        "Caudéran Centre",
+        "Grand-Lebrun",
+        "École Normale",
+        "Parc Bordelais",
+        "Barrière Saint-Médard",
+        "Croix Blanche",
+        "Lycée Camille Jullian",
+        "Saint-Seurin",
+        "Gambetta",
+        "Palais de Justice",
+        "Bourse du Travail",
+        "Victoire",
+        "Capucins",
+        "Lycée Gustave Eiffel",
+        "Gare Saint-Jean",
+        "MÉCA"
+      ]
+    },
+    "H": {
+      "nom": "Bus Express H",
+      "couleur": "bleu foncé",
+      "stations": [
+        "Jean Jaurès",
+        "Anatole France",
+        "Jules Ferry",
+        "Rosa Parks",
+        "Libération",
+        "La Paix",
+        "Cité du Midi",
+        "Curie",
+        "Rousseau",
+        "Mairie de Floirac",
+        "Nougueys",
+        "Mascaret",
+        "Arena",
+        "Simone Veil",
+        "Cité SNCF",
+        "Terres Neuves",
+        "Cité Numérique",
+        "Manufacture",
+        "Barrière de Bègles",
+        "Jardin des Barrières",
+        "Barrière de Toulouse",
+        "Boulevard Roosevelt",
+        "Cité Cairon",
+        "Barrière Saint-Genès",
+        "Boulevard George V",
+        "Barrière de Pessac",
+        "Xaintrailles",
+        "Stade Chaban-Delmas",
+        "Barrière Saint-Augustin",
+        "Barrière d'Arès",
+        "Barrière Judaïque",
+        "Cité Administrative",
+        "Barrière Saint-Médard",
+        "Parc Bordelais",
+        "Barrière du Médoc",
+        "Tivoli",
+        "Mandron",
+        "Ampère-Grand Parc",
+        "Polyclinique Bordeaux Nord",
+        "Place Ravezies",
+        "Jean Hameau",
+        "Latule",
+        "Faure-Brunet",
+        "Faure-Blaguerie",
+        "La Cité du Vin",
+        "Lajaunie",
+        "Chantiers de la Garonne",
+        "André Ricard",
+        "Cenon Gare"
+      ]
+    }
+  },
+  "connexions": [],
+  "correspondances": [
+    {
+      "station": "Porte de Bourgogne",
+      "lignes": [
+        "A",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "temps": 120
+    },
+    {
+      "station": "Gare Saint-Jean",
+      "lignes": [
+        "C",
+        "D",
+        "F",
+        "G"
+      ],
+      "temps": 120
+    },
+    {
+      "station": "Quinconces",
+      "lignes": [
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "temps": 120
+    },
+    {
+      "station": "Belcier",
+      "lignes": [
+        "C",
+        "D",
+        "F"
+      ],
+      "temps": 120
+    },
+    {
+      "station": "Carle Vernet",
+      "lignes": [
+        "C",
+        "D",
+        "F"
+      ],
+      "temps": 120
+    },
+    {
+      "station": "Cenon Gare",
+      "lignes": [
+        "A",
+        "E",
+        "H"
+      ],
+      "temps": 120
+    },
+    {
+      "station": "Hôtel de Ville",
+      "lignes": [
+        "A",
+        "B",
+        "F"
+      ],
+      "temps": 120
+    },
+    {
+      "station": "Jean Jaurès",
+      "lignes": [
+        "A",
+        "E",
+        "H"
+      ],
+      "temps": 120
+    },
+    {
+      "station": "Palais de Justice",
+      "lignes": [
+        "A",
+        "F",
+        "G"
+      ],
+      "temps": 120
+    },
+    {
+      "station": "Place Ravezies",
+      "lignes": [
+        "C",
+        "E",
+        "H"
+      ],
+      "temps": 120
+    },
+    {
+      "station": "Place de la Bourse",
+      "lignes": [
+        "C",
+        "D",
+        "E"
+      ],
+      "temps": 120
+    },
+    {
+      "station": "Saint-Michel",
+      "lignes": [
+        "C",
+        "D",
+        "F"
+      ],
+      "temps": 120
+    },
+    {
+      "station": "Sainte-Croix",
+      "lignes": [
+        "C",
+        "D",
+        "F"
+      ],
+      "temps": 120
+    },
+    {
+      "station": "Stade Chaban-Delmas",
+      "lignes": [
+        "A",
+        "F",
+        "H"
+      ],
+      "temps": 120
+    },
+    {
+      "station": "Tauzia",
+      "lignes": [
+        "C",
+        "D",
+        "F"
+      ],
+      "temps": 120
+    },
+    {
+      "station": "Terres Neuves",
+      "lignes": [
+        "C",
+        "F",
+        "H"
+      ],
+      "temps": 120
+    },
+    {
+      "station": "Alfred de Vigny",
+      "lignes": [
+        "A",
+        "F"
+      ],
+      "temps": 120
+    },
+    {
+      "station": "Barrière Saint-Genès",
+      "lignes": [
+        "B",
+        "H"
+      ],
+      "temps": 120
+    },
+    {
+      "station": "Barrière Saint-Médard",
+      "lignes": [
+        "G",
+        "H"
+      ],
+      "temps": 120
+    },
+    {
+      "station": "Barrière du Médoc",
+      "lignes": [
+        "D",
+        "H"
+      ],
+      "temps": 120
+    },
+    {
+      "station": "Buttinière",
+      "lignes": [
+        "A",
+        "E"
+      ],
+      "temps": 120
+    },
+    {
+      "station": "Calais Centujean",
+      "lignes": [
+        "C",
+        "F"
+      ],
+      "temps": 120
+    },
+    {
+      "station": "Camille Godard",
+      "lignes": [
+        "C",
+        "E"
+      ],
+      "temps": 120
+    },
+    {
+      "station": "Carnot",
+      "lignes": [
+        "A",
+        "E"
+      ],
+      "temps": 120
+    },
+    {
+      "station": "Cracovie",
+      "lignes": [
+        "C",
+        "E"
+      ],
+      "temps": 120
+    },
+    {
+      "station": "Fontaine d'Arlac",
+      "lignes": [
+        "A",
+        "F"
+      ],
+      "temps": 120
+    },
+    {
+      "station": "François Mitterrand",
+      "lignes": [
+        "A",
+        "F"
+      ],
+      "temps": 120
+    },
+    {
+      "station": "Galin",
+      "lignes": [
+        "A",
+        "E"
+      ],
+      "temps": 120
+    },
+    {
+      "station": "Gambetta",
+      "lignes": [
+        "B",
+        "G"
+      ],
+      "temps": 120
+    },
+    {
+      "station": "Gare de Bègles",
+      "lignes": [
+        "C",
+        "F"
+      ],
+      "temps": 120
+    },
+    {
+      "station": "Gaviniès",
+      "lignes": [
+        "A",
+        "F"
+      ],
+      "temps": 120
+    },
+    {
+      "station": "Grand Parc",
+      "lignes": [
+        "C",
+        "E"
+      ],
+      "temps": 120
+    },
+    {
+      "station": "Hôpital Pellegrin",
+      "lignes": [
+        "A",
+        "F"
+      ],
+      "temps": 120
+    },
+    {
+      "station": "Hôtel de Police",
+      "lignes": [
+        "A",
+        "F"
+      ],
+      "temps": 120
+    },
+    {
+      "station": "Jardin Botanique",
+      "lignes": [
+        "A",
+        "E"
+      ],
+      "temps": 120
+    },
+    {
+      "station": "Jardin Public",
+      "lignes": [
+        "C",
+        "E"
+      ],
+      "temps": 120
+    },
+    {
+      "station": "La Belle Rose",
+      "lignes": [
+        "C",
+        "F"
+      ],
+      "temps": 120
+    },
+    {
+      "station": "La Cité du Vin",
+      "lignes": [
+        "B",
+        "H"
+      ],
+      "temps": 120
+    },
+    {
+      "station": "Mériadeck",
+      "lignes": [
+        "A",
+        "F"
+      ],
+      "temps": 120
+    },
+    {
+      "station": "Parc Bordelais",
+      "lignes": [
+        "G",
+        "H"
+      ],
+      "temps": 120
+    },
+    {
+      "station": "Peychotte",
+      "lignes": [
+        "A",
+        "F"
+      ],
+      "temps": 120
+    },
+    {
+      "station": "Pierre Mendès-France",
+      "lignes": [
+        "A",
+        "F"
+      ],
+      "temps": 120
+    },
+    {
+      "station": "Place Paul Doumer",
+      "lignes": [
+        "C",
+        "E"
+      ],
+      "temps": 120
+    },
+    {
+      "station": "Place du Palais",
+      "lignes": [
+        "A",
+        "F"
+      ],
+      "temps": 120
+    },
+    {
+      "station": "Quatre Chemins",
+      "lignes": [
+        "A",
+        "F"
+      ],
+      "temps": 120
+    },
+    {
+      "station": "Saint-Augustin",
+      "lignes": [
+        "A",
+        "F"
+      ],
+      "temps": 120
+    },
+    {
+      "station": "Saint-Bruno",
+      "lignes": [
+        "A",
+        "F"
+      ],
+      "temps": 120
+    },
+    {
+      "station": "Sainte-Catherine",
+      "lignes": [
+        "A",
+        "F"
+      ],
+      "temps": 120
+    },
+    {
+      "station": "Stade Musard",
+      "lignes": [
+        "C",
+        "F"
+      ],
+      "temps": 120
+    },
+    {
+      "station": "Stalingrad",
+      "lignes": [
+        "A",
+        "E"
+      ],
+      "temps": 120
+    },
+    {
+      "station": "Thiers-Benauge",
+      "lignes": [
+        "A",
+        "E"
+      ],
+      "temps": 120
+    },
+    {
+      "station": "Victoire",
+      "lignes": [
+        "B",
+        "G"
+      ],
+      "temps": 120
+    },
+    {
+      "station": "Émile Counord",
+      "lignes": [
+        "C",
+        "E"
+      ],
+      "temps": 120
+    }
+  ],
+  "temps_moyen": 120,
+  "note": "Temps moyen en secondes entre deux stations consécutives.",
+  "stations_coords": {
+    "Le Haillan Rostand": [
+      44.898,
+      -0.7008
+    ],
+    "Les Pins": [
+      44.8931,
+      -0.6878
+    ],
+    "Frères Robinson": [
+      44.8879,
+      -0.6754
+    ],
+    "Hôtel de Ville Mérignac": [
+      44.8437,
+      -0.6516
+    ],
+    "Pin Galant": [
+      44.8528,
+      -0.6681
+    ],
+    "Mérignac Centre": [
+      44.8437,
+      -0.6487
+    ],
+    "Lycées de Mérignac": [
+      44.8394,
+      -0.6413
+    ],
+    "Quatre Chemins": [
+      44.8361,
+      -0.6311
+    ],
+    "Aéroport": [
+      44.8284,
+      -0.7156
+    ],
+    "Caroline-Aigle": [
+      44.831,
+      -0.7045
+    ],
+    "Cadéra-Issartier": [
+      44.8332,
+      -0.6924
+    ],
+    "Parc Chemin-Long": [
+      44.8348,
+      -0.6824
+    ],
+    "Mérignac Soleil": [
+      44.8352,
+      -0.6589
+    ],
+    "Pierre Mendès-France": [
+      44.8345,
+      -0.6215
+    ],
+    "Alfred de Vigny": [
+      44.833,
+      -0.61
+    ],
+    "Fontaine d'Arlac": [
+      44.8316,
+      -0.599
+    ],
+    "Peychotte": [
+      44.8302,
+      -0.59
+    ],
+    "François Mitterrand": [
+      44.8286,
+      -0.5792
+    ],
+    "Saint-Augustin": [
+      44.829,
+      -0.6103
+    ],
+    "Hôpital Pellegrin": [
+      44.8261,
+      -0.596
+    ],
+    "Stade Chaban-Delmas": [
+      44.8383,
+      -0.5812
+    ],
+    "Gaviniès": [
+      44.8394,
+      -0.5764
+    ],
+    "Hôtel de Police": [
+      44.84,
+      -0.5736
+    ],
+    "Saint-Bruno": [
+      44.8407,
+      -0.5712
+    ],
+    "Mériadeck": [
+      44.8381,
+      -0.5844
+    ],
+    "Palais de Justice": [
+      44.8393,
+      -0.575
+    ],
+    "Hôtel de Ville": [
+      44.8413,
+      -0.5735
+    ],
+    "Sainte-Catherine": [
+      44.8391,
+      -0.5726
+    ],
+    "Place du Palais": [
+      44.837,
+      -0.5714
+    ],
+    "Porte de Bourgogne": [
+      44.8346,
+      -0.5682
+    ],
+    "Stalingrad": [
+      44.8362,
+      -0.5556
+    ],
+    "Jardin Botanique": [
+      44.839,
+      -0.5476
+    ],
+    "Thiers-Benauge": [
+      44.8414,
+      -0.5393
+    ],
+    "Galin": [
+      44.845,
+      -0.533
+    ],
+    "Jean Jaurès": [
+      44.8466,
+      -0.526
+    ],
+    "Cenon Gare": [
+      44.8492,
+      -0.5199
+    ],
+    "Carnot": [
+      44.8521,
+      -0.5141
+    ],
+    "Buttinière": [
+      44.8548,
+      -0.5093
+    ],
+    "Iris": [
+      44.8601,
+      -0.5042
+    ],
+    "Gravières": [
+      44.8645,
+      -0.5001
+    ],
+    "Bois Fleuri": [
+      44.8685,
+      -0.4968
+    ],
+    "Lauriers": [
+      44.8725,
+      -0.4938
+    ],
+    "Mairie de Lormont": [
+      44.877,
+      -0.4907
+    ],
+    "Carriet": [
+      44.882,
+      -0.4878
+    ],
+    "La Gardette": [
+      44.8869,
+      -0.4849
+    ],
+    "Berges de la Garonne": [
+      44.8856,
+      -0.5415
+    ],
+    "Claveau": [
+      44.8821,
+      -0.5425
+    ],
+    "Brandenburg": [
+      44.8781,
+      -0.5436
+    ],
+    "New-York": [
+      44.8709,
+      -0.5473
+    ],
+    "Rue Achard": [
+      44.8667,
+      -0.5487
+    ],
+    "La Cité du Vin": [
+      44.8614,
+      -0.5508
+    ],
+    "Les Hangars": [
+      44.8559,
+      -0.5543
+    ],
+    "Cours du Médoc": [
+      44.8528,
+      -0.5596
+    ],
+    "Chartrons": [
+      44.851,
+      -0.5659
+    ],
+    "CAPC": [
+      44.8487,
+      -0.572
+    ],
+    "Quinconces": [
+      44.8445,
+      -0.5738
+    ],
+    "Grand Théâtre": [
+      44.8432,
+      -0.574
+    ],
+    "Gambetta": [
+      44.8411,
+      -0.5785
+    ],
+    "Musée d'Aquitaine": [
+      44.8376,
+      -0.5762
+    ],
+    "Victoire": [
+      44.8312,
+      -0.5731
+    ],
+    "Saint-Nicolas": [
+      44.8278,
+      -0.5773
+    ],
+    "Bergonié": [
+      44.8243,
+      -0.5822
+    ],
+    "Barrière Saint-Genès": [
+      44.8205,
+      -0.5875
+    ],
+    "Roustaing": [
+      44.8157,
+      -0.5903
+    ],
+    "Talence Centre": [
+      44.8094,
+      -0.5948
+    ],
+    "Peixotto": [
+      44.8047,
+      -0.5963
+    ],
+    "Béthanie": [
+      44.8017,
+      -0.598
+    ],
+    "Arts et Métiers": [
+      44.7987,
+      -0.5997
+    ],
+    "François Bordes": [
+      44.7958,
+      -0.6015
+    ],
+    "Doyen Brus": [
+      44.7921,
+      -0.6035
+    ],
+    "Montaigne Montesquieu": [
+      44.7897,
+      -0.6053
+    ],
+    "Unitec": [
+      44.7873,
+      -0.6072
+    ],
+    "Saige": [
+      44.7848,
+      -0.6091
+    ],
+    "Bougnard": [
+      44.7829,
+      -0.6113
+    ],
+    "Châtaigneraie": [
+      44.78,
+      -0.6139
+    ],
+    "Cap Métiers": [
+      44.7776,
+      -0.616
+    ],
+    "Hôpital Haut-Lévêque": [
+      44.7745,
+      -0.6182
+    ],
+    "Gare Pessac Alouette": [
+      44.7714,
+      -0.6204
+    ],
+    "France Alouette": [
+      44.7682,
+      -0.6219
+    ],
+    "Parc des Expositions": [
+      44.8959,
+      -0.5648
+    ],
+    "Palais des Congrès": [
+      44.8923,
+      -0.5642
+    ],
+    "Quarante Journaux": [
+      44.889,
+      -0.5646
+    ],
+    "Berges du Lac": [
+      44.8852,
+      -0.565
+    ],
+    "Les Aubiers": [
+      44.874,
+      -0.5742
+    ],
+    "Cracovie": [
+      44.871,
+      -0.5764
+    ],
+    "Place Ravezies": [
+      44.866,
+      -0.5793
+    ],
+    "Grand Parc": [
+      44.8623,
+      -0.5753
+    ],
+    "Émile Counord": [
+      44.8592,
+      -0.5752
+    ],
+    "Camille Godard": [
+      44.8554,
+      -0.5753
+    ],
+    "Place Paul Doumer": [
+      44.8521,
+      -0.5755
+    ],
+    "Jardin Public": [
+      44.8491,
+      -0.5756
+    ],
+    "Place de la Bourse": [
+      44.8413,
+      -0.5683
+    ],
+    "Saint-Michel": [
+      44.8327,
+      -0.5649
+    ],
+    "Sainte-Croix": [
+      44.8308,
+      -0.5626
+    ],
+    "Tauzia": [
+      44.8274,
+      -0.5581
+    ],
+    "Gare Saint-Jean": [
+      44.8259,
+      -0.5567
+    ],
+    "Belcier": [
+      44.8214,
+      -0.5554
+    ],
+    "Carle Vernet": [
+      44.8171,
+      -0.5535
+    ],
+    "Terres Neuves": [
+      44.8114,
+      -0.5412
+    ],
+    "La Belle Rose": [
+      44.8083,
+      -0.5371
+    ],
+    "Stade Musard": [
+      44.8056,
+      -0.5336
+    ],
+    "Calais Centujean": [
+      44.8026,
+      -0.5302
+    ],
+    "Gare de Bègles": [
+      44.7995,
+      -0.5268
+    ],
+    "Parc de Mussonville": [
+      44.7961,
+      -0.524
+    ],
+    "Lycée Václav-Havel": [
+      44.7936,
+      -0.5219
+    ],
+    "Villenave Centre": [
+      44.7904,
+      -0.5203
+    ],
+    "Villenave Pyrénées": [
+      44.7873,
+      -0.5188
+    ],
+    "Cantinolle": [
+      44.8996,
+      -0.6495
+    ],
+    "Les Sources": [
+      44.8944,
+      -0.6443
+    ],
+    "Eysines Centre": [
+      44.8901,
+      -0.6387
+    ],
+    "Picot": [
+      44.8848,
+      -0.6297
+    ],
+    "Simone Veil Eysines": [
+      44.8812,
+      -0.6226
+    ],
+    "Hippodrome": [
+      44.8762,
+      -0.6141
+    ],
+    "Champ de Courses": [
+      44.8722,
+      -0.6059
+    ],
+    "Sainte-Germaine": [
+      44.8686,
+      -0.5982
+    ],
+    "Les Écus": [
+      44.8649,
+      -0.5906
+    ],
+    "Mairie du Bouscat": [
+      44.8617,
+      -0.5847
+    ],
+    "Calypso": [
+      44.859,
+      -0.5809
+    ],
+    "Courbet": [
+      44.8561,
+      -0.5775
+    ],
+    "Barrière du Médoc": [
+      44.8529,
+      -0.5774
+    ],
+    "Croix de Seguey": [
+      44.85,
+      -0.5765
+    ],
+    "Fondaudège Muséum": [
+      44.8471,
+      -0.5757
+    ],
+    "Gare de Blanquefort": [
+      44.9145,
+      -0.6356
+    ],
+    "Frankton": [
+      44.9053,
+      -0.6152
+    ],
+    "Gare de Bruges": [
+      44.894,
+      -0.5987
+    ],
+    "Ausone": [
+      44.8853,
+      -0.5861
+    ],
+    "La Vache": [
+      44.8769,
+      -0.5792
+    ],
+    "Palmer": [
+      44.8579,
+      -0.5033
+    ],
+    "Pelletan": [
+      44.861,
+      -0.4974
+    ],
+    "La Morlette": [
+      44.8644,
+      -0.4915
+    ],
+    "Jean Zay": [
+      44.8678,
+      -0.4858
+    ],
+    "La Marègue": [
+      44.8716,
+      -0.4801
+    ],
+    "Floirac Dravemont": [
+      44.8758,
+      -0.4743
+    ],
+    "Saint-Aubin Villepreux": [
+      44.9418,
+      -0.7596
+    ],
+    "Croix Vieille": [
+      44.9352,
+      -0.7495
+    ],
+    "Église de Saint-Aubin": [
+      44.9297,
+      -0.7408
+    ],
+    "Germignan": [
+      44.9234,
+      -0.7314
+    ],
+    "Lycée Sud Médoc": [
+      44.9178,
+      -0.7225
+    ],
+    "Euromédoc": [
+      44.9125,
+      -0.7139
+    ],
+    "Les Escarrets": [
+      44.9072,
+      -0.7055
+    ],
+    "Mairie de Saint-Médard": [
+      44.9025,
+      -0.6971
+    ],
+    "République": [
+      44.8978,
+      -0.6889
+    ],
+    "Montaigne": [
+      44.8934,
+      -0.6809
+    ],
+    "Bords de Jalles": [
+      44.8891,
+      -0.6732
+    ],
+    "Château de Gajac": [
+      44.8846,
+      -0.6658
+    ],
+    "Centre Commercial Saint-Médard": [
+      44.8799,
+      -0.6584
+    ],
+    "Berlincan": [
+      44.8751,
+      -0.651
+    ],
+    "Rue du Médoc": [
+      44.8702,
+      -0.6437
+    ],
+    "Mairie du Haillan": [
+      44.8862,
+      -0.6788
+    ],
+    "Collège Émile Zola": [
+      44.882,
+      -0.6712
+    ],
+    "Mermoz": [
+      44.8775,
+      -0.6634
+    ],
+    "Saint-Exupéry": [
+      44.873,
+      -0.6556
+    ],
+    "Germaine Tillion": [
+      44.8686,
+      -0.648
+    ],
+    "La Forêt": [
+      44.8645,
+      -0.6406
+    ],
+    "Le Grand Louis": [
+      44.86,
+      -0.633
+    ],
+    "Caillou": [
+      44.8553,
+      -0.6254
+    ],
+    "Cage Verte": [
+      44.8507,
+      -0.618
+    ],
+    "Stade Stéhélin": [
+      44.8463,
+      -0.6106
+    ],
+    "Collège Saint-André": [
+      44.8433,
+      -0.603
+    ],
+    "Caudéran Centre": [
+      44.847,
+      -0.5955
+    ],
+    "Grand-Lebrun": [
+      44.8449,
+      -0.5912
+    ],
+    "École Normale": [
+      44.8433,
+      -0.5877
+    ],
+    "Parc Bordelais": [
+      44.8415,
+      -0.5849
+    ],
+    "Barrière Saint-Médard": [
+      44.8459,
+      -0.581
+    ],
+    "Croix Blanche": [
+      44.8437,
+      -0.5839
+    ],
+    "Lycée Camille Jullian": [
+      44.8424,
+      -0.582
+    ],
+    "Saint-Seurin": [
+      44.8411,
+      -0.5806
+    ],
+    "Bourse du Travail": [
+      44.8361,
+      -0.578
+    ],
+    "Capucins": [
+      44.8341,
+      -0.5773
+    ],
+    "Lycée Gustave Eiffel": [
+      44.8282,
+      -0.5596
+    ],
+    "MÉCA": [
+      44.8242,
+      -0.5558
+    ],
+    "Anatole France": [
+      44.8489,
+      -0.5237
+    ],
+    "Jules Ferry": [
+      44.851,
+      -0.5198
+    ],
+    "Rosa Parks": [
+      44.8531,
+      -0.5162
+    ],
+    "Libération": [
+      44.8551,
+      -0.5127
+    ],
+    "La Paix": [
+      44.8571,
+      -0.5093
+    ],
+    "Cité du Midi": [
+      44.8505,
+      -0.505
+    ],
+    "Curie": [
+      44.8473,
+      -0.502
+    ],
+    "Rousseau": [
+      44.8441,
+      -0.4992
+    ],
+    "Mairie de Floirac": [
+      44.8427,
+      -0.4964
+    ],
+    "Nougueys": [
+      44.8394,
+      -0.4935
+    ],
+    "Mascaret": [
+      44.8365,
+      -0.4905
+    ],
+    "Arena": [
+      44.8332,
+      -0.4875
+    ],
+    "Simone Veil": [
+      44.8302,
+      -0.4847
+    ],
+    "Cité SNCF": [
+      44.8269,
+      -0.5165
+    ],
+    "Cité Numérique": [
+      44.8231,
+      -0.5487
+    ],
+    "Manufacture": [
+      44.8221,
+      -0.551
+    ],
+    "Barrière de Bègles": [
+      44.8182,
+      -0.5598
+    ],
+    "Jardin des Barrières": [
+      44.8196,
+      -0.5648
+    ],
+    "Barrière de Toulouse": [
+      44.8209,
+      -0.5706
+    ],
+    "Boulevard Roosevelt": [
+      44.8227,
+      -0.5757
+    ],
+    "Cité Cairon": [
+      44.824,
+      -0.5807
+    ],
+    "Boulevard George V": [
+      44.8253,
+      -0.5855
+    ],
+    "Barrière de Pessac": [
+      44.8244,
+      -0.5877
+    ],
+    "Xaintrailles": [
+      44.8275,
+      -0.5836
+    ],
+    "Barrière Saint-Augustin": [
+      44.8265,
+      -0.5905
+    ],
+    "Barrière d'Arès": [
+      44.8345,
+      -0.5835
+    ],
+    "Barrière Judaïque": [
+      44.8365,
+      -0.5821
+    ],
+    "Cité Administrative": [
+      44.8385,
+      -0.5803
+    ],
+    "Tivoli": [
+      44.8443,
+      -0.5797
+    ],
+    "Mandron": [
+      44.8453,
+      -0.5789
+    ],
+    "Ampère-Grand Parc": [
+      44.8562,
+      -0.5741
+    ],
+    "Polyclinique Bordeaux Nord": [
+      44.8612,
+      -0.5697
+    ],
+    "Jean Hameau": [
+      44.8647,
+      -0.5673
+    ],
+    "Latule": [
+      44.8637,
+      -0.5556
+    ],
+    "Faure-Brunet": [
+      44.8617,
+      -0.5524
+    ],
+    "Faure-Blaguerie": [
+      44.8597,
+      -0.5495
+    ],
+    "Lajaunie": [
+      44.8574,
+      -0.5467
+    ],
+    "Chantiers de la Garonne": [
+      44.8552,
+      -0.5443
+    ],
+    "André Ricard": [
+      44.8528,
+      -0.527
+    ]
+  }
+}
